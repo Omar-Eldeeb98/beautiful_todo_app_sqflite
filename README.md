@@ -1,4 +1,3 @@
-# todo_app_with_sqflite
 
 # Ui
 <img src = "images/1.jpg" width ="100" heigh = "300">,
